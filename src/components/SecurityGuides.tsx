@@ -1,4 +1,4 @@
-import { Shield, Lock, Mail, Smartphone, CreditCard, Wifi, Eye, Key, FileCheck, AlertCircle } from 'lucide-react';
+import { Shield, Lock, Mail, Smartphone, CreditCard, Wifi, Eye, FileCheck, AlertCircle } from 'lucide-react';
 import { useState } from 'react';
 
 export function SecurityGuides() {
