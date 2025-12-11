@@ -1,4 +1,4 @@
-import { Shield, AlertTriangle, Lock, Users } from 'lucide-react';
+import { Shield, AlertTriangle } from 'lucide-react';
 
 export function Hero() {
   return (
